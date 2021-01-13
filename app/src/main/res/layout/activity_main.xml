@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background_masjid"
+    android:background="@drawable/masjid_selong"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="@color/white"
-            android:text="Katalog Laptop"
+            android:text="DAFTAR MASJID"
             android:textAlignment="center"
             android:textSize="21sp"
             android:textStyle="bold" />
